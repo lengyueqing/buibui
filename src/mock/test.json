@@ -1,0 +1,36 @@
+{
+	"code": 0,
+	"msg": "",
+	"data": [
+		{
+			"season_id": 27355,
+			"title": "葬爱家族",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e1fVs.jpg",
+			"styles": [ "搞笑", "恋爱", "校园" ]
+		},
+		{
+			"season_id": 25966,
+			"title": "关于我转生变成史莱姆这档事",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e12rQ.jpg",
+			"styles": [ "冒险", "热血", "玄幻" ]
+		},
+		{
+			"season_id": 26769,
+			"title": "天官赐福",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e1gKg.jpg",
+			"styles": [ "古风", "改编", "纯爱" ]
+		},
+		{
+			"season_id": 29424,
+			"title": "斗破苍穹之大主宰",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e16xS.jpg",
+			"styles": [ "冒险", "热血", "玄幻" ]
+		},
+		{
+			"season_id": 26505,
+			"title": "咒术回战",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e1y28.jpg",
+			"styles": [ "冒险", "热血", "奇幻" ]
+		}
+	]
+}

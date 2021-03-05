@@ -1,0 +1,98 @@
+[
+	{
+		"code": 0,
+		"msg": "",
+		"data": [
+			{
+				"season_id": 27734,
+				"title": "放学别走",
+				"horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/965ed17ab66d1a8882b32e10c9d96b0f5ecf5483.jpg",
+				"square_cover": "http://i0.hdslb.com/bfs/manga-static/df165aea751e0b12a298e897e3c5cd0fe6ed6109.jpg",
+				"vertical_cover": "http://i0.hdslb.com/bfs/manga-static/48c4a98df471055a33c40515cf3819ab83ccd0d9.jpg",
+				"is_finish": 0,
+				"status": 0,
+				"last_ord": 84,
+				"total": 83,
+				"release_time": "",
+				"last_short_title": "083",
+				"discount_type": 0,
+				"allow_wait_free": false
+			},
+			{
+				"season_id": 27776,
+				"title": "阿宅原来是大小姐",
+				"horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/6deb8530895a5a1054cdff23bb0431a3422f58aa.jpg",
+				"square_cover": "http://i0.hdslb.com/bfs/manga-static/f76346c87f76734ac07169f58431f2b9bd65c7ca.jpg",
+				"vertical_cover": "http://i0.hdslb.com/bfs/manga-static/a2adace1e3f94bcff803f47ba5b0a35f244c8aa9.jpg",
+				"is_finish": 0,
+				"status": 0,
+				"last_ord": 52,
+				"total": 54,
+				"release_time": "",
+				"last_short_title": "052",
+				"discount_type": 0,
+				"allow_wait_free": false
+			},
+			{
+				"season_id": 27743,
+				"title": "遥不可及",
+				"horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/8e5d72cc454ed54e830f52b8dfa5829820537ef9.jpg",
+				"square_cover": "http://i0.hdslb.com/bfs/manga-static/023173492def5cace3c941e56867e30f27720b54.jpg",
+				"vertical_cover": "https://i0.hdslb.com/bfs/manga-static/caf784372f5f39685b500f9d0f51481a18c05e2c.png",
+				"is_finish": 0,
+				"status": 0,
+				"last_ord": 160,
+				"total": 160,
+				"release_time": "",
+				"last_short_title": "159",
+				"discount_type": 1,
+				"allow_wait_free": false
+			},
+			{
+				"season_id": 24841,
+				"title": "伪恋",
+				"horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/0bf8e3d65c700f1e666c608e797baa01fe22a204.png",
+				"square_cover": "http://i0.hdslb.com/bfs/bangumi/d84f604715753d69d266c6d6b25b3e1027a5ef5c.jpg",
+				"vertical_cover": "http://i0.hdslb.com/bfs/manga-static/538f9e0bd382cbfb3739babf96f972f9db069e6c.jpg",
+				"is_finish": 1,
+				"status": 0,
+				"last_ord": 229,
+				"total": 229,
+				"release_time": "",
+				"last_short_title": "229",
+				"discount_type": 0,
+				"allow_wait_free": false
+			},
+			{
+				"season_id": 26787,
+				"title": "失业魔王",
+				"horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/aa7ae0e3e6caeff7acb943049e12ec6c7a8dceff.jpg",
+				"square_cover": "http://i0.hdslb.com/bfs/manga-static/f6029e57fb5a866b76476eea903eda2ea77e5b11.jpg",
+				"vertical_cover": "http://i0.hdslb.com/bfs/manga-static/bbae1f97df5ec9d954b82a6237284d4f1e7b99dc.jpg",
+				"is_finish": 0,
+				"status": 0,
+				"last_ord": 158,
+				"total": 158,
+				"release_time": "",
+				"last_short_title": "155",
+				"discount_type": 0,
+				"allow_wait_free": false
+			},
+			{
+				"season_id": 27360,
+				"title": "吸血鬼图书馆",
+				"horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/43d20a8283e9f33ea19647688ab28bf34c54e4f9.jpg",
+				"square_cover": "http://i0.hdslb.com/bfs/manga-static/876c48eaa198f350da586b1375c5e1cdab95cec6.jpg",
+				"vertical_cover": "http://i0.hdslb.com/bfs/manga-static/2016f0dee7d0c4160b1b493f0d88e2dcf837c3f0.jpg",
+				"is_finish": 1,
+				"status": 0,
+				"last_ord": 120,
+				"total": 122,
+				"release_time": "",
+				"last_short_title": "闭馆通知",
+				"discount_type": 0,
+				"allow_wait_free": false
+			}
+		]
+	}
+]

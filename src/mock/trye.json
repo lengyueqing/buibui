@@ -1,0 +1,36 @@
+{
+	"code": 200,
+	"msg": "",
+	"data": [
+		{
+			"season_id": 26470,
+			"title": "一拳超人",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e10UI.jpg",
+			"styles": [ "热血", "冒险", "搞笑" ]
+		},
+		{
+			"season_id": 25717,
+			"title": "鬼灭之刃",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e1wVA.jpg",
+			"styles": [ "冒险", "奇幻" ]
+		},
+		{
+			"season_id": 28376,
+			"title": "Chainsaw Man",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e1B5t.jpg",
+			"styles": [ "热血", "猎奇" ]
+		},
+		{
+			"season_id": 28451,
+			"title": "伪装学渣",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e1rPP.jpg",
+			"styles": [ "校园", "改编", "纯爱" ]
+		},
+		{
+			"season_id": 25504,
+			"title": "斗罗大陆",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e1s8f.jpg",
+			"styles": [ "热血", "冒险", "玄幻" ]
+		}
+	]
+}

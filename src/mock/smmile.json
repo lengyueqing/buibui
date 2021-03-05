@@ -1,0 +1,53 @@
+{
+	"code": 200,
+	"msg": "",
+	"data": [
+		{
+			"season_id": 25506,
+			"title": "咒术回战",
+			"author_name": "芥见下下, 集英社",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e5TfA.png",
+			"evaluate": "咒术回战0卷 东京都立咒术高等专门学校（全一册）已更新在第1话前【此漫画的翻译由版权方提供】拥有超人般身体能力的男子高中生虎杖悠仁的黑暗幻想故事。因为某种理由，想要每天17点之前回家的虎杖悠仁来到了不强制出席的灵异现象研究会，享受着悠闲的活动。这样的某一天，来学校寻找被封印的诅咒之物的青年伏黑恵出现于虎杖的面前。"
+		},
+		{
+			"season_id": 27791,
+			"title": "最弱小野怪",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e5gQx.jpg"
+		},
+		{
+			"season_id": 26551,
+			"title": "罗小黑战记",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e52y6.jpg"
+		},
+		{
+			"season_id": 25940,
+			"title": "反派初始化",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e5ROK.jpg"
+		},
+		{
+			"season_id": 26444,
+			"title": "名侦探柯南",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e5feO.jpg"
+		},
+		{
+			"season_id": 27661,
+			"title": "仙王的日常生活",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e5hwD.jpg"
+		},
+		{
+			"comic_id": 27593,
+			"title": "全职高手",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e5oYd.jpg"
+		},
+		{
+			"comic_id": 24723,
+			"title": "银魂",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e5IFH.jpg"
+		},
+		{
+			"comic_id": 28307,
+			"title": "乌龙院大长篇",
+			"imgUrl": "https://s3.ax1x.com/2021/03/05/6e54Te.jp"
+		}
+	]
+}

@@ -1,0 +1,130 @@
+[
+	{
+		"code": 0,
+		"msg": "",
+		"data": [
+			{
+				"comic_id": 26505,
+				"title": "咒术回战",
+				"author": [ "芥见下下", "集英社" ],
+				"vertical_cover": "https://i0.hdslb.com/bfs/manga-static/ca4c24bd8bf896545811f401106c19588b80549d.png",
+				"is_finish": 0,
+				"last_ord": 111,
+				"last_short_title": "140",
+				"styles": [ { "id": 1013, "name": "冒险" }, { "id": 999, "name": "热血" }, { "id": 998, "name": "奇幻" } ],
+				"total": 143,
+				"last_rank": 1,
+				"last_ep": 555156
+			},
+			{
+				"comic_id": 25966,
+				"title": "关于我转生变成史莱姆这档事",
+				"author": [ "伏濑", "川上泰树", "讲谈社" ],
+				"vertical_cover": "http://i0.hdslb.com/bfs/manga-static/defeccc4eba7f8a6de48451592fa8ebd8edb9f9d.jpg",
+				"is_finish": 0,
+				"last_ord": 82,
+				"last_short_title": "81",
+				"styles": [ { "id": 1013, "name": "冒险" }, { "id": 998, "name": "奇幻" } ],
+				"total": 84,
+				"last_rank": 2,
+				"last_ep": 555057
+			},
+			{
+				"comic_id": 27355,
+				"title": "堀与宫村",
+				"author": [ "萩原ダイスケ  ", "HERO", "SE社" ],
+				"vertical_cover": "https://i0.hdslb.com/bfs/manga-static/c29ba3ce67613539666582d31d42b40fb48cc3c7.jpg",
+				"is_finish": 0,
+				"last_ord": 125,
+				"last_short_title": "page.121",
+				"styles": [ { "id": 994, "name": "搞笑" }, { "id": 995, "name": "恋爱" }, { "id": 1001, "name": "校园" } ],
+				"total": 125,
+				"last_rank": 3,
+				"last_ep": 551952
+			},
+			{
+				"comic_id": 26573,
+				"title": "我是蜘蛛又怎样？",
+				"author": [ "马场翁", "案山子朝浩", "角川集团" ],
+				"vertical_cover": "https://i0.hdslb.com/bfs/manga-static/7de5f1a6faeb93188dfa132f26f676db3e45d998.png",
+				"is_finish": 0,
+				"last_ord": 92,
+				"last_short_title": "59",
+				"styles": [ { "id": 994, "name": "搞笑" }, { "id": 1013, "name": "冒险" }, { "id": 998, "name": "奇幻" } ],
+				"total": 94,
+				"last_rank": 4,
+				"last_ep": 554673
+			},
+			{
+				"comic_id": 25717,
+				"title": "鬼灭之刃",
+				"author": [ "吾峠呼世晴", "集英社" ],
+				"vertical_cover": "http://i0.hdslb.com/bfs/manga-static/932a161a0408311e835c11ef5e04b6807abf5f2e.jpg",
+				"is_finish": 1,
+				"last_ord": 208,
+				"last_short_title": "206",
+				"styles": [ { "id": 1013, "name": "冒险" }, { "id": 998, "name": "奇幻" } ],
+				"total": 208,
+				"last_rank": 5,
+				"last_ep": 501969
+			},
+			{
+				"comic_id": 28376,
+				"title": "Chainsaw Man",
+				"author": [ "藤本树", "集英社" ],
+				"vertical_cover": "https://i0.hdslb.com/bfs/manga-static/cb5d87ebeb2c7bc3289c8045f9669841368b1cb4.jpg",
+				"is_finish": 0,
+				"last_ord": 97,
+				"last_short_title": "97",
+				"styles": [ { "id": 999, "name": "热血" } ],
+				"total": 97,
+				"last_rank": 6,
+				"last_ep": 524717
+			},
+			{
+				"comic_id": 29396,
+				"title": "天空侵犯",
+				"author": [ "大羽隆广", "三浦追傩", "讲谈社" ],
+				"vertical_cover": "https://i0.hdslb.com/bfs/manga-static/d3189ce4985b378d987af47a6d110ff3f3084cce.jpg",
+				"is_finish": 0,
+				"last_ord": 139,
+				"last_short_title": "139",
+				"styles": [ { "id": 1013, "name": "冒险" } ],
+				"total": 139,
+				"last_rank": 9,
+				"last_ep": 555290
+			},
+			{
+				"comic_id": 26009,
+				"title": "辉夜大小姐想让我告白 ~天才们的恋爱头脑战~",
+				"author": [ "赤坂明", "集英社" ],
+				"vertical_cover": "https://i0.hdslb.com/bfs/manga-static/f58f9395b7d468365a909529563593546de024bd.jpg",
+				"is_finish": 0,
+				"last_ord": 209,
+				"last_short_title": "219",
+				"styles": [
+					{ "id": 995, "name": "恋爱" },
+					{ "id": 994, "name": "搞笑" },
+					{ "id": 1001, "name": "校园" },
+					{ "id": 1020, "name": "日常" }
+				],
+				"total": 219,
+				"last_rank": 8,
+				"last_ep": 555921
+			},
+			{
+				"comic_id": 24742,
+				"title": "航海王",
+				"author": [ "尾田荣一郎", "集英社" ],
+				"vertical_cover": "https://i0.hdslb.com/bfs/manga-static/ac575cdf576bd5eb7775a5371d44e0809235bf20.jpg",
+				"is_finish": 0,
+				"last_ord": 1006,
+				"last_short_title": "1005",
+				"styles": [ { "id": 998, "name": "奇幻" }, { "id": 999, "name": "热血" }, { "id": 1013, "name": "冒险" } ],
+				"total": 1006,
+				"last_rank": 10,
+				"last_ep": 555157
+			}
+		]
+	}
+]
